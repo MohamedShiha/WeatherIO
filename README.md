@@ -1,6 +1,6 @@
 # WeatherIO
 
-WeatherIO informs you about the latest weather forecast. It riches you with many details like humidity, uv index and many more. You can also check the weather for multiple regions. Temperature can be checked in celsius and fahrenheit.
+WeatherIO informs you about the latest weather forecast. It riches you with many details like humidity, uv index and many more. You can also check the weather for multiple regions. Temperature can be viewed in celsius and fahrenheit.
 
 ## Requirements
 
